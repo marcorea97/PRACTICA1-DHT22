@@ -10,8 +10,9 @@ ______________________________________
 •	Sensor DHT22: Dispositivo digital para medir temperatura y humedad con alta precisión, cubriendo rangos de 0-100% de humedad y -40°C a 80°C de temperatura.
 
 _______________________________________
-**Diagrama de conexión**
+**Modo de conexion**
 El pin de señal del sensor DHT22 (DHT_PIN) está conectado al GPIO 15 de la ESP32. Además, se utiliza una resistencia de 10k ohmios entre el pin de señal del sensor y el GPIO de la ESP32.
+![](https://github.com/marcorea97/PRACTICA1-DHT22/blob/main/Captura%20de%20pantalla%202024-12-17%20221000.png)
 ________________________________________
 **Descripción del código**
 
