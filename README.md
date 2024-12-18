@@ -54,6 +54,9 @@ Ejemplo de salida en el monitor serie:
 Temp: 25.6°C  
 Humidity: 60%  
 ---  
+
+![](https://github.com/marcorea97/PRACTICA1-DHT22/blob/main/CAPTURA%20TEM%20Y%20HUM.png)
+
 Nota: Los valores variarán dependiendo de las condiciones ambientales reales o simuladas.
 ________________________________________
 **Conclusión**
