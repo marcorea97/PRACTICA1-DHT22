@@ -51,8 +51,8 @@ Resultados esperados
 
 Al ejecutar este código, ya sea en la plataforma Wokwi o con hardware físico, el monitor serie mostrará valores de temperatura y humedad actualizados cada segundo.
 Ejemplo de salida en el monitor serie:
-Temp: 25.6°C  
-Humidity: 60%  
+Temp: 24.0°C  
+Humidity: 40.0%  
 ---  
 
 ![](https://github.com/marcorea97/PRACTICA1-DHT22/blob/main/CAPTURA%20TEM%20Y%20HUM.png)
